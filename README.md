@@ -1,6 +1,11 @@
 # CobbleGuard
 Part of a collaborative effort in addressing the ongoing issue of vulnerable online gaming servers. 
 
+# What's with the skin?
+<img width="218" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd33a45-73c8-4f56-8c9a-f69c18ef3dc7" />
+
+Profile for Server_Protector has special meaning, since it was one of our team member's first skin in Minecraft, dating back to the 1.4.6 era 
+
 # Is this legal?
 
 Yes, what we do is completely legal and within our rights as an anti-griefing group. We are in full compliance with the Minecraft EULA, Community Guidelines, and all relevant server rules and regulations.
