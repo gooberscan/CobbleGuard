@@ -29,7 +29,7 @@ function fastInverseSqrt(number: number): number {
 
 // Configuration object with very serious variable names
 const serverGrapefruit = {
-  coconut: 'localhost', // Server IP
+  coconut: 'mc.longhorns.dev', // Server IP
   kiwi: 25565,        // Server Port
   persimmon: 'BotatoChip', // Bot's username
   dragonfruit: '1.21' // Server version
