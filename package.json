@@ -1,0 +1,24 @@
+{
+  "name": "CobbleGuard.Ofc",
+  "version": "1.0.0",
+  "description": "This is 100% the code we use",
+  "main": "trollBot.ts",
+  "scripts": {
+    "start": "ts-node trollBot.ts"
+  },
+  "keywords": [
+    "mineflayer",
+    "typescript",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.20.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
