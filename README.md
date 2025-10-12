@@ -40,7 +40,7 @@ If your server is meant to be private, there are a few things you can do.
 
 3. Install an anti-scanner mod/plugin
   There are many mods/plugins available to protect your server from scanners.
-  Servers running Fabric or Quilt can use the [Sneaky Server](https://modrinth.com/mod/sneaky-server) mod (available on Modrinth).
+  Servers running Fabric or Quilt can use the [Sneaky Server](https://modrinth.com/mod/sneaky-server) or [AntiScan](https://modrinth.com/mod/antiscan) mods (both available on Modrinth).
   Servers running Spigot derivatives (such as Paper or Purpur) can use the [KittyBlock](https://www.spigotmc.org/resources/kittyblock.123679/) plugin (available on SpigotMC).
 
 4. Install an anti-griefing/rollback plugin
