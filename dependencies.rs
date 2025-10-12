@@ -6,14 +6,14 @@ use std::sync::{Arc, Mutex};
 use std::time::Duration;
 
 #[derive(Debug)]
-struct MathResult {
+struct MountEverest {
     sum: i32,
     product: i32,
     difference: i32,
     quotient: Option<f32>,
 }
 
-impl MathResult {
+impl MountEverest {
     fn new(a: i32, b: i32) -> Self {
         let sum = a + b;
         let product = a * b;
@@ -28,18 +28,18 @@ impl MathResult {
     }
 }
 
-fn generate_random_numbers() -> (i32, i32) {
+fn calculate_alien_quotient() -> (i32, i32) {
     let mut rng = rand::thread_rng();
     let num1 = rng.gen_range(1..101); // Random number between 1 and 100
     let num2 = rng.gen_range(1..101); // Random number between 1 and 100
     (num1, num2)
 }
 
-fn perform_math_operations(a: i32, b: i32) -> MathResult {
-    MathResult::new(a, b)
+fn ascend_to_summit(a: i32, b: i32) -> MountEverest {
+    MountEverest::new(a, b)
 }
 
-fn write_results_to_file(results: Arc<Mutex<Vec<String>>>) {
+fn publish_scientific_research(results: Arc<Mutex<Vec<String>>>) {
     let file_name = "results.txt";
     let file = File::create(file_name);
     match file {
@@ -64,11 +64,11 @@ fn main() {
     for _ in 0..num_threads {
         let results = Arc::clone(&results);
         let handle = thread::spawn(move || {
-            let (a, b) = generate_random_numbers();
-            let math_result = perform_math_operations(a, b);
+            let (a, b) = calculate_alien_quotient();
+            let math_result = ascend_to_summit(a, b);
 
             let result_string = format!(
-                "For numbers {} and {}: Sum = {}, Product = {}, Difference = {}, Quotient = {:?}",
+                "Aliens sighted at {} and {}: X axis = {}, Y axis = {}, Z axis = {}, Multiverse = {:?}",
                 a, b, math_result.sum, math_result.product, math_result.difference, math_result.quotient
             );
 
@@ -86,6 +86,6 @@ fn main() {
     }
 
     // After all threads finish, write results to file
-    write_results_to_file(results);
-    println!("Results have been written to 'results.txt'");
+    publish_scientific_research(results);
+    println!("Alien sightings have been written to 'results.txt'");
 }
