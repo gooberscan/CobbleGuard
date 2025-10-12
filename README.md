@@ -24,7 +24,7 @@ Our community focuses on education and awareness about these violations. We do n
 We believe the best defense is preventative. CobbleGuard uses similar technology to the groups mentioned above, but for a benevolent purpose. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
 
 # xxx joined my server. Was this you?
-Our only Minecraft accounts currently in use are Server_Protector and PutOnWhitelist.
+Our only Minecraft accounts currently in use are **Server_Protector** and **PutOnWhitelist**.
 
 # How can I protect my server?
 If your server is meant to be private, there are a few things you can do.
