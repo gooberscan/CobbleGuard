@@ -33,7 +33,7 @@ There are many mods/plugins available to protect your server from scanners. Serv
 
 4) Install an anti-griefing/rollback plugin
 
-If you're concerned about players you've allowed to join your server griefing, you can install a plugin like [Prism (reccomended)](https://www.spigotmc.org/resources/prism.99397/updates) (available on SpigotMC) or [CoreProtect](https://modrinth.com/plugin/coreprotect) (available on Modrinth) which log and allow rollbacks of changes.
+If you're concerned about players you've whitelisted griefing, you can install a plugin like [Prism (reccomended)](https://www.spigotmc.org/resources/prism.99397/updates) (available on SpigotMC) or [CoreProtect](https://modrinth.com/plugin/coreprotect) (available on Modrinth) which log and allow rollbacks of changes.
 
 # Is this legal?
 
