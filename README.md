@@ -1,30 +1,20 @@
 # CobbleGuard
 Part of a collaborative effort in addressing the ongoing issue of vulnerable online gaming servers. 
 
-# What's with the skin?
-<img width="218" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd33a45-73c8-4f56-8c9a-f69c18ef3dc7" />
+You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital canvas where you and your friends mine, craft, and bring incredible ideas to life, block by block. Maybe you've built a sprawling castle, a complex redstone machine, or even monumental cities that took months, years, of dedication.
 
-Server_Protector's skin was one of our team members' first skin in Minecraft, dating back to 1.4.6.
-
-# Is this legal?
-
-Yes. Everything we do is completely legal and within our rights as an anti-griefing group. We are in full compliance with the Minecraft EULA, Minecraft Usage Guidelines, Xbox Community Standards, and all other relevant rules and regulations.
-
-“To keep the Minecraft community welcoming and inclusive for everyone, we have a zero-tolerance policy towards hate speech, terrorist or violent extremist content, bullying, harassing, sexual solicitation, fraud, or threatening others.”
-
-Griefing, harassment, and abuse have no place in Minecraft. Playing with others should be safe and inclusive, and we take action when that safety is threatened.
-
-Content that involves hate speech, violent threats, harassment, bullying, sexual solicitation, fraud, or encouragement of illegal activity is strictly prohibited under Minecraft’s guidelines. Builds, mods, skins, and chat behavior that promote harm or extreme bias are also not allowed.
-
-Despite this, so-called “renovation” groups like The Fifth Column and MLPI (which stands for "Mojang Loss Prevention Inc", even though its members have been banned from multiplayer by Mojang in the past) falsely claim to follow the EULA while openly violating it by harrasing and destroying random servers, often those of young players who don’t know how to protect them. These groups justify griefing as "education" or "stopping piracy". In reality, they’re trying to rank up in private Discords by destroying as many servers as possible, leaving behind signs with Discord invites, and mocking server owners. 
-
-Our community focuses on education and awareness about these violations. We do not profit from these activities - we act solely to promote fair play, protect builds, and prevent abuse before it causes harm.
+How would you feel if you logged in one day and all of it was gone? Lavacasted to bits, burned to the ground, the TNT craters leaving your world in an irreparable state. All that hard work, destroyed by players who are now sharing screenshots of your ruined base in their private groups for clout, laughing at your loss.
 
 # How do you find servers?
 We believe the best defense is preventative. CobbleGuard uses similar technology to the groups mentioned above, but for a benevolent purpose. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
 
 # xxx joined my server. Was this you?
 Our only Minecraft accounts currently in use are **Server_Protector** and **PutOnWhitelist**.
+
+# What's with the skin?
+<img width="218" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd33a45-73c8-4f56-8c9a-f69c18ef3dc7" />
+
+Server_Protector's skin was one of our team members' first skin in Minecraft, dating back to 1.4.6.
 
 # How can I protect my server?
 If your server is meant to be private, there are a few things you can do.
@@ -44,3 +34,17 @@ There are many mods/plugins available to protect your server from scanners. Serv
 4) Install an anti-griefing/rollback plugin
 
 If you're concerned about players you've allowed to join your server griefing, you can install a plugin like [Prism (reccomended)](https://www.spigotmc.org/resources/prism.99397/updates) (available on SpigotMC) or [CoreProtect](https://modrinth.com/plugin/coreprotect) (available on Modrinth) which log and allow rollbacks of changes.
+
+# Is this legal?
+
+Yes. Everything we do is completely legal and within our rights as an anti-griefing group. We are in full compliance with the Minecraft EULA, Minecraft Usage Guidelines, Xbox Community Standards, and all other relevant rules and regulations.
+
+“To keep the Minecraft community welcoming and inclusive for everyone, we have a zero-tolerance policy towards hate speech, terrorist or violent extremist content, bullying, harassing, sexual solicitation, fraud, or threatening others.”
+
+Griefing, harassment, and abuse have no place in Minecraft. Playing with others should be safe and inclusive, and we take action when that safety is threatened.
+
+Content that involves hate speech, violent threats, harassment, bullying, sexual solicitation, fraud, or encouragement of illegal activity is strictly prohibited under Minecraft’s guidelines. Builds, mods, skins, and chat behavior that promote harm or extreme bias are also not allowed.
+
+Despite this, so-called “renovation” groups like The Fifth Column and MLPI (which stands for "Mojang Loss Prevention Inc", even though its members have been banned from multiplayer by Mojang in the past) falsely claim to follow the EULA while openly violating it by harrasing and destroying random servers, often those of young players who don’t know how to protect them. These groups justify griefing as "education" or "stopping piracy". In reality, they’re trying to rank up in private Discords by destroying as many servers as possible, leaving behind signs with Discord invites, and mocking server owners. 
+
+Our community focuses on education and awareness about these violations. We do not profit from these activities but act solely to promote fair play, protect builds, and prevent abuse before it causes harm.
