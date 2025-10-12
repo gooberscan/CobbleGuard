@@ -4,7 +4,7 @@ Part of a collaborative effort in addressing the ongoing issue of vulnerable onl
 # What's with the skin?
 <img width="218" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd33a45-73c8-4f56-8c9a-f69c18ef3dc7" />
 
-Server_Protector's skin was one of our team members' first skin in Minecraft, dating back to 1.4.6
+Server_Protector's skin was one of our team members' first skin in Minecraft, dating back to 1.4.6.
 
 # Is this legal?
 
