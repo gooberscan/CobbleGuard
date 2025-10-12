@@ -6,7 +6,7 @@ You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital ca
 How would you feel if you logged in one day and all of it was gone? Lavacasted to bits, burned to the ground, the TNT craters leaving your world in an irreparable state. All that hard work, destroyed by players who are now sharing screenshots of your ruined base in their private groups for clout, laughing at your loss.
 
 # How do you find servers?
-We believe the best defense is preventative. CobbleGuard uses similar technology to the groups mentioned above, but for a benevolent purpose. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
+We believe the best defense is preventative. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
 
 # xxx joined my server. Was this you?
 Our only Minecraft accounts currently in use are **Server_Protector** and **PutOnWhitelist**.
