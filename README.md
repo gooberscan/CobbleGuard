@@ -6,7 +6,7 @@ You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital ca
 How would you feel if you logged in one day and all of it was gone? Lavacasted to bits, burned to the ground, the TNT craters leaving your world in an irreparable state. All that hard work, destroyed by players who are now sharing screenshots of your ruined base in their private groups for clout, laughing at your loss.
 
 # How do you find servers?
-We believe the best defense is preventative. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
+We don't actually run any "server scanning" programs! Griefing groups constantly use server scanners and their own Discord bots to form large databases, mapping entire online gaming servers in the span of hours. Since those already exist, in an ironic twist, we just tag along and use their databases and APIs for good, rather than for destructive purposes. 
 
 # xxx joined my server. Was this you?
 Our only Minecraft accounts currently in use are **Server_Protector** and **PutOnWhitelist**.
@@ -37,7 +37,7 @@ If you're concerned about players you've whitelisted griefing, you can install a
 
 # Is this legal?
 
-Yes. Everything we do is completely legal and within our rights as an anti-griefing group. We are in full compliance with the Minecraft EULA, Minecraft Usage Guidelines, Xbox Community Standards, and all other relevant rules and regulations.
+We are in full compliance with the Minecraft EULA, Minecraft Usage Guidelines, Xbox Community Standards, and all other relevant rules and regulations.
 
 “To keep the Minecraft community welcoming and inclusive for everyone, we have a zero-tolerance policy towards hate speech, terrorist or violent extremist content, bullying, harassing, sexual solicitation, fraud, or threatening others.”
 
