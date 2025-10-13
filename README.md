@@ -6,7 +6,7 @@ You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital ca
 How would you feel if you logged in one day and all of it was gone? Lavacasted to bits, burned to the ground, the TNT craters leaving your world in an irreparable state. All that hard work, destroyed by players who are now sharing screenshots of your ruined base in their private groups for clout, laughing at your loss.
 
 # How do you find servers?
-We believe the best defense is preventative. CobbleGuard uses similar technology to the groups mentioned above, but for a benevolent purpose. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
+We believe the best defense is preventative. Our automated bots perform a simple, non-intrusive check, and send messages warning unprotected servers. Our process is harmless, respectful, and helpful. We don't break blocks, we don't spam, and we certainly don't destroy. We are an early warning system for the community.
 
 # xxx joined my server. Was this you?
 Our only Minecraft accounts currently in use are **Server_Protector** and **PutOnWhitelist**.
@@ -21,7 +21,7 @@ If your server is meant to be private, there are a few things you can do.
 
 1) Use online-mode
 
-This is by far the most important protection mechanism. If your server is running in offline-mode, anyone can join with any username, including as an operator, even if whitelist is enabled. To stop this, you should set the server to online-mode. If you don't own a copy of the game and are able to purchase one, you can use the funds paying for your server to buy an account instead, and play multiplayer using a mod like [e4mc (reccomended)](https://modrinth.com/mod/e4mc) (available via modrinth) or [Essential (available via modrinth](https://modrinth.com/mod/essential) [or via their installer)](https://essential.gg/downloads). If you aren't able to purchase a copy of the game (e.g. due to sanctions in your country), you can use a plugin like [AuthMeReloaded](https://www.spigotmc.org/resources/authmereloaded.6269/) (available on SpigotMC), so players need to set a password and enter it every time they log on. This combined with a whitelist will stop malicious players from joining your server)
+This is by far the most important protection mechanism. If your server is running in offline-mode, anyone can join with any username, including as an operator, even if whitelist is enabled. To stop this, you should set the server to online-mode. If you don't own a copy of the game and are able to purchase one, you can use the funds paying for your server to buy an account instead, and play multiplayer using a mod like [e4mc (reccomended)](https://modrinth.com/mod/e4mc) (available via modrinth) or [Essential (available via modrinth](https://modrinth.com/mod/essential) [or via their installer)](https://essential.gg/downloads). If you aren't able to purchase a copy of the game (e.g. due to sanctions in your country), you can use a plugin like [AuthMeReloaded](https://www.spigotmc.org/resources/authmereloaded.6269/) (available on SpigotMC), so players need to set a password and enter it every time they log on. This combined with a whitelist will stop malicious players from joining your server.
 
 2) Enable whitelist
 
@@ -33,7 +33,7 @@ There are many mods/plugins available to protect your server from scanners. Serv
 
 4) Install an anti-griefing/rollback plugin
 
-If you're concerned about players you've allowed to join your server griefing, you can install a plugin like [Prism (reccomended)](https://www.spigotmc.org/resources/prism.99397/updates) (available on SpigotMC) or [CoreProtect](https://modrinth.com/plugin/coreprotect) (available on Modrinth) which log and allow rollbacks of changes.
+If you're concerned about players you've whitelisted griefing, you can install a plugin like [Prism (reccomended)](https://www.spigotmc.org/resources/prism.99397/updates) (available on SpigotMC) or [CoreProtect](https://modrinth.com/plugin/coreprotect) (available on Modrinth) which log and allow rollbacks of changes.
 
 # Is this legal?
 
