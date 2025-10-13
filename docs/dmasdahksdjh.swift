@@ -1,5 +1,5 @@
 import Foundation
-
+   
 class MinecraftSimulation {
     enum BlockType: String {
         case air = "Air"
@@ -114,3 +114,4 @@ class MinecraftSimulation {
 
 let simulation = MinecraftSimulation()
 simulation.runSimulation()
+
