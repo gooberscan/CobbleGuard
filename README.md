@@ -1,5 +1,4 @@
 # CobbleGuard
-Part of a collaborative effort in addressing the ongoing issue of vulnerable online gaming servers. 
 
 You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital canvas where you and your friends mine, craft, and bring incredible ideas to life, block by block. Maybe you've built a sprawling castle, a complex redstone machine, or even monumental cities that took months, years, of dedication.
 
