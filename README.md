@@ -10,7 +10,7 @@ How would you feel if you logged in one day and all of it was gone? Lavacasted t
 We don't actually run any "server scanning" programs! Griefing groups constantly use server scanners and their own Discord bots to form large databases, mapping entire online gaming servers in the span of hours. Since those already exist, in an ironic twist, we just tag along and use their databases and APIs for good, rather than for destructive purposes. 
 
 # xxx joined my server. Was this you?
-On a cracked (offline-mode: true) server, any name can be faked, so we can not verify anything there. On premium servers, the main usernames you should be aware of are Server_Protector, Whitelist_Check, PutOnWhitelist
+On a cracked (offline-mode: true) server, any name can be faked, so we can not verify anything there. On premium servers, some of the player names we use are Server_Protector, Whitelist_Check, PutOnWhitelist
 
 # What's with the skin?
 <img width="218" height="333" alt="image" src="https://github.com/user-attachments/assets/7fd33a45-73c8-4f56-8c9a-f69c18ef3dc7" />
