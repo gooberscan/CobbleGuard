@@ -1,6 +1,6 @@
-H. The following method takes 1 second to complete when t1.size() = 10,000. What is the
-expected time for the method to complete when t2.size() = 20,000? (By Lauren)
- ______________
+// H. The following method takes 1 second to complete when t1.size() = 10,000. What is the
+// expected time for the method to complete when t2.size() = 20,000? (By Lauren)
+//  ______________
 // pre: t1.size() == t2.size(). Uses Java's LinkedList.
 public static int g(LinkedList<Double> t1, ArrayList<Double> t2) {
  int t = 0;
