@@ -24,9 +24,9 @@ public class twoSumEfficient{
 
     public static void main(String[] args) {
         int[] nums = {5, 3, 1, 8};
-        int target = 9;
-        int[] ans = twoSum(nums, target);
-        System.out.println(ans[0] + " " + ans[1]);
+        int target = 6;
+        int[] result = twoSum(nums, target);
+        System.out.println(result[0] + " " + result[1]);
     }
 
 
