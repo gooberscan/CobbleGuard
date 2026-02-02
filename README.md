@@ -1,10 +1,8 @@
 # CobbleGuard
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/cobbleguard)
-###### Disclaimer: Most code in this repo is contributed by us as fun easter eggs, not actual source code.
+###### Disclaimer: Most code in this repo is contributed by us as fun easter eggs; the actual source code has been migrated to a private repository for the current maintainers. 
 
-You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital canvas where you and your friends mine, craft, and bring incredible ideas to life, block by block. Maybe you've built a sprawling castle, a complex redstone machine, or even monumental cities that took months, years, of dedication.
-
-How would you feel if you logged in one day and all of it was gone? Lavacasted to bits, burned to the ground, the TNT craters leaving your world in an irreparable state. All that hard work, destroyed by players who are now sharing screenshots of your ruined base in their private groups for clout, laughing at your loss.
+You've spent hundreds of hours in Minecraft. It's a beautiful game, a digital canvas where you and your friends mine, craft, and bring incredible ideas to life, block by block. Maybe you've built a sprawling castle, a complex redstone machine, or even monumental cities that took months, years, of dedication. How would you feel if you logged into your server one day, and all of it was gone? Lavacasted to bits, the TNT craters leaving your world in an irreparable state. All that hard work, destroyed by players who are now sharing screenshots of your ruined base for clout, and laughing at your loss.
 
 # How do you find servers?
 We don't actually run any "server scanning" programs! Griefing groups constantly use server scanners and their own Discord bots to form large databases, mapping entire online gaming servers in the span of hours. Since those already exist, in an ironic twist, we just tag along and use their databases and APIs for good, rather than for destructive purposes. 
